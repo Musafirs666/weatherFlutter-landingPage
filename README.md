@@ -1,6 +1,6 @@
 # weather_flutterapp
 
-weather flutter app
+A landing page for weather flutter app
 
 ## Getting Started
 
